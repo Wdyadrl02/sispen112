@@ -1,0 +1,1 @@
+{{$hasil->Seksi->nama_edukasi}}
